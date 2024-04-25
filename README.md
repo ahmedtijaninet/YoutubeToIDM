@@ -29,7 +29,8 @@ Features
 *   Extracts 720p videos from a Youtube playlist.
 *   Saves video URLs along with titles to a text file.
 *   Simple and easy-to-use GUI.
-*   Screenshot of the GUI. ![Screenshot of the GUI](image/screenshot.jpg)
+*   Screenshot of the GUI. !
+*   [Screenshot of the GUI](image/screenshot.jpg)
 
 Contributing
 ------------
