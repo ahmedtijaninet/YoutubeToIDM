@@ -30,7 +30,7 @@ Features
 *   Saves video URLs along with titles to a text file.
 *   Simple and easy-to-use GUI.
 *   Screenshot of the GUI. 
-![alt text](image/screenshot.jpg)
+*   ![alt text](image/screenshot.jpg)
 
 
 Contributing
